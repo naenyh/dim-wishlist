@@ -7,3 +7,4 @@ dimwishlist:item=2496875173&perks=3436462433#notes:Pour du PvP
 // Test de trashlist
 dimwishlist:item=-3184681056&perks=3161816588
 dimwishlist:item=-2252206363&perks=957782887
+dimwishlist:item=-3745990145&perks=957782887
