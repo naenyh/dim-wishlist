@@ -3,3 +3,4 @@ description:Liste de souhait à nous ♥
 
 // Rime du malheur | Sorrow's Verse
 dimwishlist:item=2496875173&perks=3436462433#notes:Pour du PvP
+dimwishlist:item=2496875173&perks=1294026524,4090651448,106909392,2946784966,3108830275,4248210736,2323986101,4283235140,0,2285418970#notes:Test
