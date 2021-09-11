@@ -3,7 +3,6 @@ description:Liste de souhait à nous ♥
 
 // Rime du malheur | Sorrow's Verse
 dimwishlist:item=2496875173&perks=3436462433#notes:Pour du PvP
-dimwishlist:item=2496875173&perks=2946784966#notes:Test
 
-// Chrysura Melo
-dimwishlist:item=1337707096&perks=2621346526
+// Test de trashlist
+dimwishlist:item=-3184681056&perks=3161816588
