@@ -1,4 +1,4 @@
-# dim-wishlist ![alt text](https://img.shields.io/badge/item-1-blueviolet)
+# dim-wishlist 
 
 Notre Wishlist pour Dim ♥
 
