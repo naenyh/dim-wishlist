@@ -1,0 +1,5 @@
+title:Liste Nydris
+description:Liste de souhait à nous ♥
+
+// Rime du malheur | Sorrow's Verse
+dimwishlist:item=2496875173&perks=3436462433#notes:Pour du PvP
