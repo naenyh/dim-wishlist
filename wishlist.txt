@@ -1,5 +1,8 @@
 title:Liste Nydris
 description:Liste de souhait à nous ♥
 
-// Rime du malheur | Sorrow's Verse
+// Rime du malheur | Sorrow's Verse + Surplus
 dimwishlist:item=2496875173&perks=3436462433#notes:Pour du PvP
+
+// Aiguille aiguisée + Vorpale
+dimwishlist:item=3075224551&perks=1546637391
