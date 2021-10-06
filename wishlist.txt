@@ -9,3 +9,6 @@ dimwishlist:item=3075224551&perks=1546637391
 
 // Perforateur - Vent meurtrier + Frénésie
 dimwishlist:item=378498222&perks=2450788523,4104185692
+
+// RUÉE CHROMATIQUE
+dimwishlist:item=1119734784&perks=1820235745,3425386926
