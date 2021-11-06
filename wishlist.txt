@@ -12,3 +12,7 @@ dimwishlist:item=378498222&perks=2450788523,4104185692
 
 // RUÉE CHROMATIQUE
 dimwishlist:item=1119734784&perks=1820235745,3425386926
+
+// Trash
+// Sniper avec poignée de tir à la hanche
+dimwishlist:item=-10&perks=1866048759
