@@ -16,6 +16,10 @@ dimwishlist:item=1119734784&perks=1820235745,3425386926
 // Morsure d'arsenic-4b - Libellule & Cadence de l'archer
 dimwishlist:item=720351795&perks=201365942,2203506850
 
+//Battant BXR-55
+dimwishlist:item=2708806099&perks=11612903,150943605
+
+
 // Trash
 // Sniper avec poignée de tir à la hanche
 dimwishlist:item=-10&perks=1866048759
