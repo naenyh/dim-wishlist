@@ -51,8 +51,6 @@ dimwishlist:item=11&perks=3673922083
 dimwishlist:item=153950757&perks=3673922083
 dimwishlist:item=2489664120&perks=3673922083
 dimwishlist:item=3317538576&perks=3673922083
-dimwishlist:item=-2&perks=3673922083
-dimwishlist:item=-3&perks=3673922083
 
 // Adrenaline junkie + Demolitionist
 dimwishlist:item=1&perks=3523296417,11612903
@@ -61,9 +59,6 @@ dimwishlist:item=1&perks=11612903,3523296417
 // Ambitious assassin
 dimwishlist:item=13&perks=2010801679
 dimwishlist:item=153950757&perks=2010801679
-dimwishlist:item=-2&perks=2010801679
-dimwishlist:item=-3&perks=2010801679
-dimwishlist:item=-4&perks=2010801679
 
 // Auto-loading holster
 dimwishlist:item=4&perks=3300816228
@@ -72,8 +67,6 @@ dimwishlist:item=10&perks=3300816228
 dimwishlist:item=11&perks=3300816228
 dimwishlist:item=153950757&perks=3300816228
 dimwishlist:item=2489664120&perks=3300816228
-dimwishlist:item=-2&perks=3300816228
-dimwishlist:item=-3&perks=3300816228
 
 // Backup plan
 //notes:PvP
@@ -161,9 +154,6 @@ dimwishlist:item=4&perks=460017080
 dimwishlist:item=9&perks=1866048759
 dimwishlist:item=11&perks=1866048759
 dimwishlist:item=3317538576&perks=1866048759
-dimwishlist:item=-2&perks=1866048759
-dimwishlist:item=-3&perks=1866048759
-dimwishlist:item=-4&perks=1866048759
 
 // Iron gaze
 //notes:PvP
@@ -291,6 +281,25 @@ dimwishlist:item=2&perks=1546637391
 dimwishlist:item=3&perks=1546637391
 dimwishlist:item=4&perks=1546637391
 
+// -----------------------------------------------------------------------------------------------------------------
+
+// Adagio
+dimwishlist:item=-2&perks=3673922083
+dimwishlist:item=-3&perks=3673922083
+
+// Ambitious assassin
+dimwishlist:item=-2&perks=2010801679
+dimwishlist:item=-3&perks=2010801679
+dimwishlist:item=-4&perks=2010801679
+
+// Auto-loading holster
+dimwishlist:item=-2&perks=3300816228
+dimwishlist:item=-3&perks=3300816228
+
+// Hip-fire grip
+dimwishlist:item=-2&perks=1866048759
+dimwishlist:item=-3&perks=1866048759
+dimwishlist:item=-4&perks=1866048759
 
 // -----------------------------------------------------------------------------------------------------------------
 // -----------------------------------------------------------------------------------------------------------------
