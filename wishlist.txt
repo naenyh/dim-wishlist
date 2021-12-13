@@ -1,6 +1,19 @@
 title:Liste Nydris
 description:Liste de souhait à nous ♥
 
+
+// -----------------------------------------------------------------------------------------------------------
+
+// item=-2 = Cinétique
+// item=-3 = Energétique
+// item=-4 = Puissante
+// item=-10 = Sniper
+
+// -----------------------------------------------------------------------------------------------------------
+
+//notes:Test armes primaire
+dimwishlist:item=-1731162900
+
 // Rime du malheur - Surplus
 dimwishlist:item=2496875173&perks=3436462433#notes:Pour du PvP
 
@@ -168,10 +181,3 @@ dimwishlist:item=-4&perks=3592538738
 dimwishlist:item=-2&perks=2387244414
 dimwishlist:item=-3&perks=2387244414
 dimwishlist:item=-4&perks=2387244414
-
-// -----------------------------------------------------------------------------------------------------------
-
-// item=-2 = Cinétique
-// item=-3 = Energétique
-// item=-4 = Puissante
-// item=-10 = Sniper
