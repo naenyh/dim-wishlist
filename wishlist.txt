@@ -288,7 +288,7 @@ dimwishlist:item=4&perks=3108830275
 // Vorpal weapon
 //notes:Raid
 dimwishlist:item=2&perks=1546637391
-dimwishlist:item=3&perks=1546637391
+dimwishlist:item=3&perks=1546637391,3096702027
 dimwishlist:item=4&perks=1546637391
 
 
