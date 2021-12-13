@@ -23,7 +23,6 @@ description:Liste de souhait à nous ♥
 
 // Rime du malheur - Surplus
 dimwishlist:item=2496875173&perks=3436462433#notes:Pour du PvP
-dimwishlist:item=2496875173&perks=1820235745,3425386926#notes:test
 
 // Aiguille aiguisée - Vorpale
 dimwishlist:item=3075224551&perks=1546637391
@@ -80,6 +79,218 @@ dimwishlist:item=-3&perks=3300816228
 dimwishlist:item=2&perks=1600092898
 dimwishlist:item=3&perks=1600092898
 dimwishlist:item=4&perks=1600092898
+
+// Bottomless grief
+//notes:PvP
+dimwishlist:item=2&perks=4252909580
+dimwishlist:item=3&perks=4252909580
+dimwishlist:item=4&perks=4252909580
+
+// Celerity
+//notes:PvP
+dimwishlist:item=2&perks=1264398905
+dimwishlist:item=3&perks=1264398905
+dimwishlist:item=4&perks=1264398905
+
+// Desperado
+//notes:PvP
+dimwishlist:item=2&perks=3047969693
+dimwishlist:item=3&perks=3047969693
+dimwishlist:item=4&perks=3047969693
+
+// Elemental capacitor
+//notes:PvP
+dimwishlist:item=2&perks=3511092054
+dimwishlist:item=3&perks=3511092054
+dimwishlist:item=4&perks=3511092054
+
+// Encore
+//notes:PvP
+dimwishlist:item=2&perks=1195158366
+dimwishlist:item=3&perks=1195158366
+dimwishlist:item=4&perks=1195158366
+
+// Explosive head
+//notes:PvP
+dimwishlist:item=2&perks=3365897133
+dimwishlist:item=3&perks=3365897133
+dimwishlist:item=4&perks=3365897133
+
+// Explosive payload
+//notes:PvP
+dimwishlist:item=2&perks=3038247973
+dimwishlist:item=3&perks=3038247973
+dimwishlist:item=4&perks=3038247973
+
+// Eye of the storm
+//notes:PvP
+dimwishlist:item=2&perks=699525795
+dimwishlist:item=3&perks=699525795
+dimwishlist:item=4&perks=699525795
+
+// Firing line
+//notes:Raid
+dimwishlist:item=2&perks=1771339417
+dimwishlist:item=3&perks=1771339417
+dimwishlist:item=4&perks=1771339417
+
+// Firmly planted
+//notes:Raid
+dimwishlist:item=2&perks=280464955
+dimwishlist:item=3&perks=280464955
+dimwishlist:item=4&perks=280464955
+
+// Fourth time's the charm
+//notes:Raid
+dimwishlist:item=2&perks=1354429876
+dimwishlist:item=3&perks=1354429876
+dimwishlist:item=4&perks=1354429876
+
+// Grave robber + Swashbuckler
+dimwishlist:item=2&perks=1631667848,4082225868
+dimwishlist:item=3&perks=1631667848,4082225868
+dimwishlist:item=4&perks=1631667848,4082225868
+
+// Headseeker
+//notes:PvP
+dimwishlist:item=2&perks=460017080
+dimwishlist:item=3&perks=460017080
+dimwishlist:item=4&perks=460017080
+
+// Hip-fire grip
+dimwishlist:item=9&perks=1866048759
+dimwishlist:item=11&perks=1866048759
+dimwishlist:item=3317538576&perks=1866048759
+dimwishlist:item=-2&perks=1866048759
+dimwishlist:item=-3&perks=1866048759
+dimwishlist:item=-4&perks=1866048759
+
+// Iron gaze
+//notes:PvP
+dimwishlist:item=2&perks=4152709778
+dimwishlist:item=3&perks=4152709778
+dimwishlist:item=4&perks=4152709778
+
+// Iron grip
+//notes:PvP
+dimwishlist:item=2&perks=11551321
+dimwishlist:item=3&perks=11551321
+dimwishlist:item=4&perks=11551321
+
+// Iron reach
+//notes:PvP
+dimwishlist:item=2&perks=591790007
+dimwishlist:item=3&perks=591790007
+dimwishlist:item=4&perks=591790007
+
+// Kickstart
+//notes:PvP
+dimwishlist:item=2&perks=1754714824
+dimwishlist:item=3&perks=1754714824
+dimwishlist:item=4&perks=1754714824
+
+// Killing wind
+//notes:PvP
+dimwishlist:item=2&perks=2450788523
+dimwishlist:item=3&perks=2450788523
+dimwishlist:item=4&perks=2450788523
+
+// Opening shot
+//notes:PvP
+dimwishlist:item=2&perks=47981717
+dimwishlist:item=3&perks=47981717
+dimwishlist:item=4&perks=47981717
+
+// Pulse monitor
+//notes:PvP
+dimwishlist:item=2&perks=972757866
+dimwishlist:item=3&perks=972757866
+dimwishlist:item=4&perks=972757866
+
+// Quickdraw
+//notes:PvP
+dimwishlist:item=2&perks=706527188
+dimwishlist:item=3&perks=706527188
+dimwishlist:item=4&perks=706527188
+
+// Rangefinder
+//notes:PvP
+dimwishlist:item=2&perks=2846385770
+dimwishlist:item=3&perks=2846385770
+dimwishlist:item=4&perks=2846385770
+
+// Rapid hit
+//notes:PvP
+dimwishlist:item=2&perks=247725512
+dimwishlist:item=3&perks=247725512
+dimwishlist:item=4&perks=247725512
+
+// Slideshot
+//notes:PvP
+dimwishlist:item=2&perks=3161816588
+dimwishlist:item=3&perks=3161816588
+dimwishlist:item=4&perks=3161816588
+
+// Slideways
+//notes:PvP
+dimwishlist:item=2&perks=2039302152
+dimwishlist:item=3&perks=2039302152
+dimwishlist:item=4&perks=2039302152
+
+// Snapshot sight
+//notes:PvP
+dimwishlist:item=2&perks=957782887
+dimwishlist:item=3&perks=957782887
+dimwishlist:item=4&perks=957782887
+
+// Sneak bow
+//notes:PvP
+dimwishlist:item=2&perks=908147344
+dimwishlist:item=3&perks=908147344
+dimwishlist:item=4&perks=908147344
+
+// Threat detector
+//notes:PvP
+dimwishlist:item=2&perks=4071163871
+dimwishlist:item=3&perks=4071163871
+dimwishlist:item=4&perks=4071163871
+
+// Triple tap
+//notes:Raid
+dimwishlist:item=2&perks=3400784728
+dimwishlist:item=3&perks=3400784728
+dimwishlist:item=4&perks=3400784728
+
+// Tunnel vision
+//notes:PvP
+dimwishlist:item=2&perks=2946784966
+dimwishlist:item=3&perks=2946784966
+dimwishlist:item=4&perks=2946784966
+
+// Under pressure
+//notes:PvP
+dimwishlist:item=2&perks=1645158859
+dimwishlist:item=3&perks=1645158859
+dimwishlist:item=4&perks=1645158859
+
+// Underdog
+//notes:PvP
+dimwishlist:item=2&perks=205890336
+dimwishlist:item=3&perks=205890336
+dimwishlist:item=4&perks=205890336
+
+// Unrelenting
+//notes:PvP
+dimwishlist:item=2&perks=3108830275
+dimwishlist:item=3&perks=3108830275
+dimwishlist:item=4&perks=3108830275
+
+// Vorpal weapon
+//notes:Raid
+dimwishlist:item=2&perks=1546637391
+dimwishlist:item=3&perks=1546637391
+dimwishlist:item=4&perks=1546637391
+
 
 // -----------------------------------------------------------------------------------------------------------
 // -----------------------------------------------------------------------------------------------------------
