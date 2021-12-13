@@ -28,4 +28,4 @@ dimwishlist:item=-10&perks=1866048759
 454085387
 
 //Test Vorpale
-dimwishlist:perks=-1546637391
+dimwishlist:item=-2&perks=1546637391
