@@ -14,14 +14,16 @@ description:Liste de souhait à nous ♥
 // dimwishlist:item=153950757 = Lance-grenades
 // dimwishlist:item=2489664120 = Rayon
 
+// dimwishlist:item=3317538576 = Arc
+// dimwishlist:item=13 = Croquette
+
 
 
 // -----------------------------------------------------------------------------------------------------------
 
 // Rime du malheur - Surplus
 dimwishlist:item=2496875173&perks=3436462433#notes:Pour du PvP
-dimwishlist:item=2496875173&perks=3425386926,518224744#notes:test
-dimwishlist:item=2496875173&perks=839105230,106909392,1820235745,3425386926,518224744#notes:test
+dimwishlist:item=2496875173&perks=1820235745,3425386926#notes:test
 
 // Aiguille aiguisée - Vorpale
 dimwishlist:item=3075224551&perks=1546637391
@@ -48,12 +50,36 @@ dimwishlist:item=11&perks=3673922083
 dimwishlist:item=153950757&perks=3673922083
 dimwishlist:item=2489664120&perks=3673922083
 dimwishlist:item=3317538576&perks=3673922083
+dimwishlist:item=-2&perks=3673922083
+dimwishlist:item=-3&perks=3673922083
 
 // Adrenaline junkie + Demolitionist
 dimwishlist:item=2&perks=11612903,3523296417
 dimwishlist:item=3&perks=11612903,3523296417
 dimwishlist:item=4&perks=11612903,3523296417
 
+// Ambitious assassin
+dimwishlist:item=13&perks=2010801679
+dimwishlist:item=153950757&perks=2010801679
+dimwishlist:item=-2&perks=2010801679
+dimwishlist:item=-3&perks=2010801679
+dimwishlist:item=-4&perks=2010801679
+
+// Auto-loading holster
+dimwishlist:item=4&perks=3300816228
+dimwishlist:item=9&perks=3300816228
+dimwishlist:item=10&perks=3300816228
+dimwishlist:item=11&perks=3300816228
+dimwishlist:item=153950757&perks=3300816228
+dimwishlist:item=2489664120&perks=3300816228
+dimwishlist:item=-2&perks=3300816228
+dimwishlist:item=-3&perks=3300816228
+
+// Backup plan
+//notes:PvP
+dimwishlist:item=2&perks=1600092898
+dimwishlist:item=3&perks=1600092898
+dimwishlist:item=4&perks=1600092898
 
 // -----------------------------------------------------------------------------------------------------------
 // -----------------------------------------------------------------------------------------------------------
@@ -61,11 +87,6 @@ dimwishlist:item=4&perks=11612903,3523296417
 // -----------------------------------------------------------------------------------------------------------
 // -----------------------------------------------------------------------------------------------------------
 
-
-// Adagio
-dimwishlist:item=-2&perks=3673922083
-dimwishlist:item=-3&perks=3673922083
-dimwishlist:item=-4&perks=3673922083
 
 // Blunt Execution Rounds
 dimwishlist:item=-2&perks=454085387
