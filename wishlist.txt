@@ -16,13 +16,16 @@ dimwishlist:item=1119734784&perks=1820235745,3425386926
 // Morsure d'arsenic-4b - Libellule & Cadence de l'archer
 dimwishlist:item=720351795&perks=201365942,2203506850
 
-//Battant BXR-55
+// Battant BXR-55
 dimwishlist:item=2708806099&perks=11612903,150943605
 
 
-// Trash
-// Sniper avec poignée de tir à la hanche
-dimwishlist:item=-10&perks=1866048759
+// -----------------------------------------------------------------------------------------------------------
+// -----------------------------------------------------------------------------------------------------------
+// -------------------------------------------------- Trash --------------------------------------------------
+// -----------------------------------------------------------------------------------------------------------
+// -----------------------------------------------------------------------------------------------------------
+
 
 // Blunt Execution Rounds
 dimwishlist:item=-2&perks=454085387
@@ -90,6 +93,7 @@ dimwishlist:item=-3&perks=438098033
 dimwishlist:item=-4&perks=438098033
 
 // Kill Clip
+//notes:Trash personnel, activation pas assez fiable
 dimwishlist:item=-2&perks=1015611457
 dimwishlist:item=-3&perks=1015611457
 dimwishlist:item=-4&perks=1015611457
@@ -115,10 +119,59 @@ dimwishlist:item=-3&perks=3513791699
 dimwishlist:item=-4&perks=3513791699
 
 // Multikill Clip
+//notes:Trash personnel, activation pas assez fiable
 dimwishlist:item=-2&perks=2458213969
 dimwishlist:item=-3&perks=2458213969
 dimwishlist:item=-4&perks=2458213969
 
+// No Distractions
+dimwishlist:item=-2&perks=2866798147
+dimwishlist:item=-3&perks=2866798147
+dimwishlist:item=-4&perks=2866798147
+
+// One for All
+dimwishlist:item=-2&perks=4049631843
+dimwishlist:item=-3&perks=4049631843
+dimwishlist:item=-4&perks=4049631843
+
+// Osmosis
+dimwishlist:item=-2&perks=1774574192
+dimwishlist:item=-3&perks=1774574192
+dimwishlist:item=-4&perks=1774574192
+
+// Shattering blade
+dimwishlist:item=-2&perks=818211479
+dimwishlist:item=-3&perks=818211479
+dimwishlist:item=-4&perks=818211479
+
+// Surrounded
+dimwishlist:item=-2&perks=3708227201
+dimwishlist:item=-3&perks=3708227201
+dimwishlist:item=-4&perks=3708227201
+
+// Sympathetic arsenal
+dimwishlist:item=-2&perks=3350417888
+dimwishlist:item=-3&perks=3350417888
+dimwishlist:item=-4&perks=3350417888
+
+// Thresh
+dimwishlist:item=-2&perks=2726471870
+dimwishlist:item=-3&perks=2726471870
+dimwishlist:item=-4&perks=2726471870
+
+// Wellspring
+dimwishlist:item=-2&perks=3592538738
+dimwishlist:item=-3&perks=3592538738
+dimwishlist:item=-4&perks=3592538738
+
+// Zen moment
+dimwishlist:item=-2&perks=2387244414
+dimwishlist:item=-3&perks=2387244414
+dimwishlist:item=-4&perks=2387244414
+
+// -----------------------------------------------------------------------------------------------------------
+
 // item=-2 = Cinétique
 // item=-3 = Energétique
 // item=-4 = Puissante
+// item=-10 = Sniper
