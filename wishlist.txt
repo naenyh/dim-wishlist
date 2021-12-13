@@ -23,3 +23,9 @@ dimwishlist:item=2708806099&perks=11612903,150943605
 // Trash
 // Sniper avec poignée de tir à la hanche
 dimwishlist:item=-10&perks=1866048759
+
+// Blunt Execution Rounds
+454085387
+
+//Test Vorpale
+dimwishlist:perks=-1546637391
