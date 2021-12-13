@@ -28,4 +28,18 @@ dimwishlist:item=-10&perks=1866048759
 454085387
 
 //Test Vorpale
-dimwishlist:item=-2&perks=1546637391
+dimwishlist:item=-2&perks=-1546637391
+
+// Item=-2 = Cinétique
+// Item=-3 = Energétique
+// Item=-2 = Cinétique
+
+// Blunt Execution Rounds
+dimwishlist:item=-2&perks=-454085387
+dimwishlist:item=-3&perks=-454085387
+dimwishlist:item=-4&perks=-454085387
+
+
+// Item=-2 = Cinétique
+// Item=-3 = Energétique
+// Item=-4 = Puissante
