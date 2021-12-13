@@ -55,9 +55,8 @@ dimwishlist:item=-2&perks=3673922083
 dimwishlist:item=-3&perks=3673922083
 
 // Adrenaline junkie + Demolitionist
-dimwishlist:item=2&perks=11612903,3523296417
-dimwishlist:item=3&perks=11612903,3523296417
-dimwishlist:item=4&perks=11612903,3523296417
+dimwishlist:item=1&perks=3523296417,11612903
+dimwishlist:item=1&perks=11612903,3523296417
 
 // Ambitious assassin
 dimwishlist:item=13&perks=2010801679
@@ -149,9 +148,8 @@ dimwishlist:item=3&perks=1354429876
 dimwishlist:item=4&perks=1354429876
 
 // Grave robber + Swashbuckler
-dimwishlist:item=2&perks=1631667848,4082225868
-dimwishlist:item=3&perks=1631667848,4082225868
-dimwishlist:item=4&perks=1631667848,4082225868
+dimwishlist:item=1&perks=4082225868,1631667848
+dimwishlist:item=1&perks=1631667848,4082225868
 
 // Headseeker
 //notes:PvP
@@ -289,7 +287,9 @@ dimwishlist:item=4&perks=3108830275
 
 // Vorpal weapon
 //notes:Raid
-dimwishlist:item=1&perks=1546637391
+dimwishlist:item=2&perks=1546637391
+dimwishlist:item=3&perks=1546637391
+dimwishlist:item=4&perks=1546637391
 
 
 // -----------------------------------------------------------------------------------------------------------------
@@ -298,31 +298,35 @@ dimwishlist:item=1&perks=1546637391
 // -----------------------------------------------------------------------------------------------------------------
 // -----------------------------------------------------------------------------------------------------------------
 
+dimwishlist:item=-1&perks=454085387,454085387
+dimwishlist:item=-1&perks=2551157718,454085387
+dimwishlist:item=-1&perks=1799762209,454085387
+dimwishlist:item=-1&perks=3016987351,454085387
+dimwishlist:item=-1&perks=960810156,454085387
+dimwishlist:item=-1&perks=454085387,2551157718
+dimwishlist:item=-1&perks=2551157718,2551157718
+dimwishlist:item=-1&perks=1799762209,2551157718
+dimwishlist:item=-1&perks=3016987351,2551157718
+dimwishlist:item=-1&perks=960810156,2551157718
+dimwishlist:item=-1&perks=454085387,1799762209
+dimwishlist:item=-1&perks=2551157718,1799762209
+dimwishlist:item=-1&perks=1799762209,1799762209
+dimwishlist:item=-1&perks=3016987351,1799762209
+dimwishlist:item=-1&perks=960810156,1799762209
+dimwishlist:item=-1&perks=454085387,3016987351
+dimwishlist:item=-1&perks=2551157718,3016987351
+dimwishlist:item=-1&perks=1799762209,3016987351
+dimwishlist:item=-1&perks=3016987351,3016987351
+dimwishlist:item=-1&perks=960810156,3016987351
+dimwishlist:item=-1&perks=454085387,960810156
+dimwishlist:item=-1&perks=2551157718,960810156
+dimwishlist:item=-1&perks=1799762209,960810156
+dimwishlist:item=-1&perks=3016987351,960810156
+dimwishlist:item=-1&perks=960810156,960810156
 
-// Blunt Execution Rounds
-dimwishlist:item=-2&perks=454085387
-dimwishlist:item=-3&perks=454085387
-dimwishlist:item=-4&perks=454085387
 
-// Box breathing
-dimwishlist:item=-2&perks=2551157718
-dimwishlist:item=-3&perks=2551157718
-dimwishlist:item=-4&perks=2551157718
 
-// Cornered
-dimwishlist:item=-2&perks=1799762209
-dimwishlist:item=-3&perks=1799762209
-dimwishlist:item=-4&perks=1799762209
 
-// Counterattack
-dimwishlist:item=-2&perks=3016987351
-dimwishlist:item=-3&perks=3016987351
-dimwishlist:item=-4&perks=3016987351
-
-// Danger zone
-dimwishlist:item=-2&perks=960810156
-dimwishlist:item=-3&perks=960810156
-dimwishlist:item=-4&perks=960810156
 
 // Disruption break
 dimwishlist:item=-2&perks=1683379515
@@ -350,14 +354,14 @@ dimwishlist:item=-3&perks=2621346526
 dimwishlist:item=-4&perks=2621346526
 
 // Field prep
-// dimwishlist:item=-2&perks=2869569095
-// dimwishlist:item=-3&perks=2869569095
-// dimwishlist:item=-4&perks=2869569095
+dimwishlist:item=-2&perks=2869569095
+dimwishlist:item=-3&perks=2869569095
+dimwishlist:item=-4&perks=2869569095
 
 // Flash counter
-// dimwishlist:item=-2&perks=2244851822
-// dimwishlist:item=-3&perks=2244851822
-// dimwishlist:item=-4&perks=2244851822
+dimwishlist:item=-2&perks=2244851822
+dimwishlist:item=-3&perks=2244851822
+dimwishlist:item=-4&perks=2244851822
 
 // Harmony
 dimwishlist:item=-2&perks=438098033
@@ -427,9 +431,9 @@ dimwishlist:item=-3&perks=3350417888
 dimwishlist:item=-4&perks=3350417888
 
 // Thresh
-dimwishlist:item=-1&perks=2726471870,2244851822,2869569095
-// dimwishlist:item=-3&perks=2726471870
-// dimwishlist:item=-4&perks=2726471870
+dimwishlist:item=-1&perks=2726471870
+dimwishlist:item=-3&perks=2726471870
+dimwishlist:item=-4&perks=2726471870
 
 // Wellspring
 dimwishlist:item=-2&perks=3592538738
