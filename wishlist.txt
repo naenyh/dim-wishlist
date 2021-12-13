@@ -21,6 +21,7 @@ description:Liste de souhait à nous ♥
 // Rime du malheur - Surplus
 dimwishlist:item=2496875173&perks=3436462433#notes:Pour du PvP
 dimwishlist:item=2496875173&perks=3425386926,518224744
+dimwishlist:item=2496875173&perks=839105230,106909392,1820235745,3425386926,518224744
 
 // Aiguille aiguisée - Vorpale
 dimwishlist:item=3075224551&perks=1546637391
