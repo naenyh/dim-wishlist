@@ -5,9 +5,3 @@ description:Liste de souhait à nous ♥
 
 // Toile-Entonnoir - Canon allongé, Chargeur rapide, Vent meurtrier, Frénésie
 dimwishlist:item=3341893443&perks=1467527085,3230963543,2450788523,4104185692
-
-// Vorpal weapon
-//notes:Raid
-dimwishlist:item=2&perks=1546637391
-dimwishlist:item=3&perks=1546637391
-dimwishlist:item=4&perks=1546637391
