@@ -1,0 +1,7 @@
+title:Liste Nydris
+description:Liste de souhait à nous ♥
+
+// -----------------------------------------------------------------------------------------------------------------
+
+// TOILE-ENTONNOIR - Vent meurtrier + Frénésie
+dimwishlist:item=3341893443&perks=2450788523,4104185692
