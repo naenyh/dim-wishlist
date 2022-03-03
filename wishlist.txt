@@ -5,3 +5,25 @@ description:Liste de souhait à nous ♥
 
 // Toile-Entonnoir - Canon allongé, Chargeur rapide, Vent meurtrier, Frénésie
 dimwishlist:item=3341893443&perks=1467527085,3230963543,2450788523,4104185692
+
+
+// Craftable Weapons
+https://www.light.gg/db/items/1399109800
+https://www.light.gg/db/items/2097055732
+https://www.light.gg/db/items/2856514843
+https://www.light.gg/db/items/4225322581
+https://www.light.gg/db/items/2607304614
+https://www.light.gg/db/items/4067556514
+https://www.light.gg/db/items/1526296434
+https://www.light.gg/db/items/927567426
+https://www.light.gg/db/items/1248372789
+https://www.light.gg/db/items/232928045
+https://www.light.gg/db/items/1994645182
+https://www.light.gg/db/items/2595497736
+https://www.light.gg/db/items/4096943616
+https://www.light.gg/db/items/297296830
+https://www.light.gg/db/items/3865728990
+https://www.light.gg/db/items/2721157927
+https://www.light.gg/db/items/1572896086
+https://www.light.gg/db/items/3489657138
+https://www.light.gg/db/items/3175851496
