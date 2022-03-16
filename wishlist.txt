@@ -29,4 +29,4 @@ dimwishlist:item=-3489657138
 dimwishlist:item=-3175851496
 
 // Roquette avec IMPRESSION DURABLE
-dimwishlist:item=13&perks=3927722942
+dimwishlist:item=-13&perks=3927722942
