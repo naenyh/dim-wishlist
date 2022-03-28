@@ -34,3 +34,13 @@ dimwishlist:item=-3175851496
 
 // Roquette avec IMPRESSION DURABLE
 dimwishlist:item=-13&perks=3927722942
+
+// Auto-loading holster + principale
+dimwishlist:item=-5&perks=3300816228
+dimwishlist:item=-6&perks=3300816228
+dimwishlist:item=-7&perks=3300816228
+dimwishlist:item=-8&perks=3300816228
+dimwishlist:item=-14&perks=3300816228
+dimwishlist:item=-57&perks=3300816228
+dimwishlist:item=-3317538576&perks=3300816228
+
