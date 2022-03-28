@@ -36,6 +36,7 @@ dimwishlist:item=-3175851496
 dimwishlist:item=-13&perks=3927722942
 
 // Auto-loading holster + principale
+//notes:Holster de recharge auto + principale = caca
 dimwishlist:item=-5&perks=3300816228
 dimwishlist:item=-6&perks=3300816228
 dimwishlist:item=-7&perks=3300816228
