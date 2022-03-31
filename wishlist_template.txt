@@ -3,13 +3,18 @@ description:Liste basique
 
 // -----------------------------------------------------------------------------------------------------------------
 
-// dimwishlist:item=9 = Fusion
-// dimwishlist:item=10 = Sniper
-// dimwishlist:item=11 = Pompe
+// dimwishlist:item=1504945536 = Fusils à fusion linéaire		
+// dimwishlist:item=153950757 = Lance-grenades (L)		
+// dimwishlist:item=12 = Mitrailleuses		
+// dimwishlist:item=13 = Lance-roquettes		
+// dimwishlist:item=54 = Épées		
+
+// dimwishlist:item=9 = Fusils à fusion
 // dimwishlist:item=153950757 = Lance-grenades
-// dimwishlist:item=2489664120 = Rayon
-// dimwishlist:item=3317538576 = Arc
-// dimwishlist:item=13 = Croquette
+// dimwishlist:item=11 = Fusils à pompe
+// dimwishlist:item=10 = Fusils de précision
+// dimwishlist:item=2489664120 = Fusils à rayon
+// dimwishlist:item=3871742104 = Glaives
 
 // dimwishlist:item=5 = Fusils automatiques
 // dimwishlist:item=6 = Revolvers
@@ -185,3 +190,24 @@ dimwishlist:item=3954685534&perks=1683379515
 dimwishlist:item=3954685534&perks=1645158859
 dimwishlist:item=3954685534&perks=1820235745
 dimwishlist:item=3954685534&perks=2610012052
+
+// Fusils à fusion + Perks top
+//notes:Top :)
+dimwishlist:item=9&perks=1546637391
+dimwishlist:item=9&perks=3551326236
+dimwishlist:item=9&perks=3425386926
+dimwishlist:item=9&perks=1015611457
+dimwishlist:item=9&perks=2458213969
+dimwishlist:item=9&perks=2978966579
+dimwishlist:item=9&perks=3523296417
+dimwishlist:item=9&perks=2652708987
+dimwishlist:item=9&perks=2779035018
+dimwishlist:item=9&perks=3708227201
+dimwishlist:item=9&perks=4082225868
+dimwishlist:item=9&perks=4104185692
+dimwishlist:item=9&perks=3300816228
+dimwishlist:item=9&perks=1570042021
+dimwishlist:item=9&perks=1683379515
+dimwishlist:item=9&perks=1427256713
+dimwishlist:item=9&perks=1820235745
+dimwishlist:item=9&perks=2610012052
