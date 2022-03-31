@@ -12,7 +12,7 @@ dimwishlist:item=-2233545123
 
 
 // Armes Craftable
-//notes::Un seul exemplaire suffit.|tags:pve,mkb,controller
+//notes::Un seul exemplaire suffit.|tags:craft
 dimwishlist:item=-1399109800#notes:Arme Craftable
 dimwishlist:item=-2097055732#notes:Arme Craftable
 dimwishlist:item=-2856514843#notes:Arme Craftable
