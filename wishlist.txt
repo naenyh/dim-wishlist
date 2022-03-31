@@ -12,25 +12,26 @@ dimwishlist:item=-2233545123
 
 
 // Armes Craftable
-dimwishlist:item=-1399109800#notes:Un seul exemplaire suffit.
-dimwishlist:item=-2097055732#notes:Un seul exemplaire suffit.
-dimwishlist:item=-2856514843#notes:Un seul exemplaire suffit.
-dimwishlist:item=-4225322581#notes:Un seul exemplaire suffit.
-dimwishlist:item=-2607304614#notes:Un seul exemplaire suffit.
-dimwishlist:item=-4067556514#notes:Un seul exemplaire suffit.
-dimwishlist:item=-1526296434#notes:Un seul exemplaire suffit.
-dimwishlist:item=-927567426#notes:Un seul exemplaire suffit.
-dimwishlist:item=-1248372789#notes:Un seul exemplaire suffit.
-dimwishlist:item=-232928045#notes:Un seul exemplaire suffit.
-dimwishlist:item=-1994645182#notes:Un seul exemplaire suffit.
-dimwishlist:item=-2595497736#notes:Un seul exemplaire suffit.
-dimwishlist:item=-4096943616#notes:Un seul exemplaire suffit.
-dimwishlist:item=-297296830#notes:Un seul exemplaire suffit.
-dimwishlist:item=-3865728990#notes:Un seul exemplaire suffit.
-dimwishlist:item=-2721157927#notes:Un seul exemplaire suffit.
-dimwishlist:item=-1572896086#notes:Un seul exemplaire suffit.
-dimwishlist:item=-3489657138#notes:Un seul exemplaire suffit.
-dimwishlist:item=-3175851496#notes:Un seul exemplaire suffit.
+//notes::Un seul exemplaire suffit.|tags:pve,mkb,controller
+dimwishlist:item=-1399109800#notes:Arme Craftable
+dimwishlist:item=-2097055732#notes:Arme Craftable
+dimwishlist:item=-2856514843#notes:Arme Craftable
+dimwishlist:item=-4225322581#notes:Arme Craftable
+dimwishlist:item=-2607304614#notes:Arme Craftable
+dimwishlist:item=-4067556514#notes:Arme Craftable
+dimwishlist:item=-1526296434#notes:Arme Craftable
+dimwishlist:item=-927567426#notes:Arme Craftable
+dimwishlist:item=-1248372789#notes:Arme Craftable
+dimwishlist:item=-232928045#notes:Arme Craftable
+dimwishlist:item=-1994645182#notes:Arme Craftable
+dimwishlist:item=-2595497736#notes:Arme Craftable
+dimwishlist:item=-4096943616#notes:Arme Craftable
+dimwishlist:item=-297296830#notes:Arme Craftable
+dimwishlist:item=-3865728990#notes:Arme Craftable
+dimwishlist:item=-2721157927#notes:Arme Craftable
+dimwishlist:item=-1572896086#notes:Arme Craftable
+dimwishlist:item=-3489657138#notes:Arme Craftable
+dimwishlist:item=-3175851496#notes:Arme Craftable
 
 // Roquette avec IMPRESSION DURABLE
 dimwishlist:item=-13&perks=3927722942#notes:Yuck !
