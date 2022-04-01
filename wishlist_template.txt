@@ -301,7 +301,7 @@ dimwishlist:item=3871742104&perks=2779035018
 dimwishlist:item=3871742104&perks=4104185692
 dimwishlist:item=3871742104&perks=1820235745
 
-// Fusils à fusion linéaire		 + Perks top
+// Fusils à fusion linéaire	+ Perks top
 //notes:Top :)
 dimwishlist:item=1504945536&perks=2284787283
 dimwishlist:item=1504945536&perks=247725512
@@ -310,7 +310,80 @@ dimwishlist:item=1504945536&perks=2652708987
 dimwishlist:item=1504945536&perks=2779035018
 dimwishlist:item=1504945536&perks=4104185692
 dimwishlist:item=1504945536&perks=3300816228
-dimwishlist:item=1504945536&perks=3124871000
 dimwishlist:item=1504945536&perks=1168162263
-dimwishlist:item=1504945536&perks=1528281896
-dimwishlist:item=1504945536&perks=
+dimwishlist:item=1504945536&perks=1570042021
+dimwishlist:item=1504945536&perks=1354429876
+dimwishlist:item=1504945536&perks=3865257976
+dimwishlist:item=1504945536&perks=1771339417
+dimwishlist:item=1504945536&perks=124408337
+dimwishlist:item=1504945536&perks=2869569095
+dimwishlist:item=1504945536&perks=1683379515
+dimwishlist:item=1504945536&perks=3400784728
+
+// Lance-grenades + Perks top
+//notes:Top :)
+dimwishlist:item=153950757&perks=2010801679
+dimwishlist:item=153950757&perks=951095735
+dimwishlist:item=153950757&perks=2284787283
+dimwishlist:item=153950757&perks=2978966579
+dimwishlist:item=153950757&perks=3523296417
+dimwishlist:item=153950757&perks=1583705720
+dimwishlist:item=153950757&perks=4082225868
+dimwishlist:item=153950757&perks=2888557110
+dimwishlist:item=153950757&perks=4104185692
+dimwishlist:item=153950757&perks=3300816228
+dimwishlist:item=153950757&perks=3194351027
+dimwishlist:item=153950757&perks=2869569095
+dimwishlist:item=153950757&perks=2396489472
+dimwishlist:item=153950757&perks=1683379515
+
+// Mitrailleuses + Perks top
+//notes:Top :)
+dimwishlist:item=12&perks=11612903
+dimwishlist:item=12&perks=3551326236
+dimwishlist:item=12&perks=3425386926
+dimwishlist:item=12&perks=3523296417
+dimwishlist:item=12&perks=1583705720
+dimwishlist:item=12&perks=2779035018
+dimwishlist:item=12&perks=4082225868
+dimwishlist:item=12&perks=4104185692
+dimwishlist:item=12&perks=3300816228
+dimwishlist:item=12&perks=1168162263
+dimwishlist:item=12&perks=1570042021
+dimwishlist:item=12&perks=3865257976
+dimwishlist:item=12&perks=3824105627
+dimwishlist:item=12&perks=1561789734
+dimwishlist:item=12&perks=3418782618
+dimwishlist:item=12&perks=124408337
+dimwishlist:item=12&perks=1523832109
+dimwishlist:item=12&perks=1683379515
+dimwishlist:item=12&perks=1820235745
+
+// Lance-roquettes + Perks top
+//notes:Top :)
+dimwishlist:item=13&perks=2010801679
+dimwishlist:item=13&perks=951095735
+dimwishlist:item=13&perks=2284787283
+dimwishlist:item=13&perks=3643424744
+dimwishlist:item=13&perks=3523296417
+dimwishlist:item=13&perks=2779035018
+dimwishlist:item=13&perks=4104185692
+dimwishlist:item=13&perks=3300816228
+dimwishlist:item=13&perks=3927722942
+dimwishlist:item=13&perks=3194351027
+dimwishlist:item=13&perks=2869569095
+dimwishlist:item=13&perks=1683379515
+dimwishlist:item=13&perks=2610012052
+
+// Épées + Perks top
+//notes:Top :)
+dimwishlist:item=54&perks=3523296417
+dimwishlist:item=54&perks=3708227201
+dimwishlist:item=54&perks=1749209109
+dimwishlist:item=54&perks=4104185692
+dimwishlist:item=54&perks=354401740
+dimwishlist:item=54&perks=2590710093
+dimwishlist:item=54&perks=3913600130
+dimwishlist:item=54&perks=2396489472
+dimwishlist:item=54&perks=1683379515
+dimwishlist:item=54&perks=2450788523
