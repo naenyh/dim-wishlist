@@ -29,7 +29,7 @@ description:Liste basique
 // -----------------------------------------------------------------------------------------------------------------
 
 // Armes Craftable
-//notes:Un seul exemplaire suffit.
+//notes:Craftable
 dimwishlist:item=-1399109800
 dimwishlist:item=-2097055732
 dimwishlist:item=-2856514843
