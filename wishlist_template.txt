@@ -74,6 +74,8 @@ dimwishlist:item=5&perks=1645158859
 dimwishlist:item=5&perks=1820235745
 dimwishlist:item=5&perks=2610012052
 dimwishlist:item=5&perks=2896038713
+dimwishlist:item=5&perks=1583705720
+dimwishlist:item=5&perks=4049631843
 
 // Arcs + Perks top
 //notes:Top :)
@@ -89,6 +91,8 @@ dimwishlist:item=3317538576&perks=4104185692
 dimwishlist:item=3317538576&perks=1048183818
 dimwishlist:item=3317538576&perks=3365897133
 dimwishlist:item=3317538576&perks=47981717
+dimwishlist:item=3317538576&perks=1583705720
+dimwishlist:item=3317538576&perks=4049631843
 
 // Revolvers + Perks top
 //notes:Top :)
@@ -113,6 +117,8 @@ dimwishlist:item=6&perks=124408337
 dimwishlist:item=6&perks=1683379515
 dimwishlist:item=6&perks=1820235745
 dimwishlist:item=6&perks=2896038713
+dimwishlist:item=6&perks=1583705720
+dimwishlist:item=6&perks=4049631843
 
 // Fusils à impulsion + Perks top
 //notes:Top :)
@@ -135,6 +141,8 @@ dimwishlist:item=7&perks=124408337
 dimwishlist:item=7&perks=1683379515
 dimwishlist:item=7&perks=1820235745
 dimwishlist:item=7&perks=2896038713
+dimwishlist:item=7&perks=1583705720
+dimwishlist:item=7&perks=4049631843
 
 // Fusils d'éclaireur	 + Perks top
 //notes:Top :)
@@ -156,6 +164,8 @@ dimwishlist:item=8&perks=124408337
 dimwishlist:item=8&perks=1683379515
 dimwishlist:item=8&perks=1820235745
 dimwishlist:item=8&perks=2896038713
+dimwishlist:item=8&perks=1583705720
+dimwishlist:item=8&perks=4049631843
 
 // Pistolets + Perks top
 //notes:Top :)
@@ -177,6 +187,8 @@ dimwishlist:item=14&perks=124408337
 dimwishlist:item=14&perks=1683379515
 dimwishlist:item=14&perks=1820235745
 dimwishlist:item=14&perks=2896038713
+dimwishlist:item=14&perks=1583705720
+dimwishlist:item=14&perks=4049631843
 
 // Pistolets-mitrailleurs + Perks top
 //notes:Top :)
@@ -198,6 +210,8 @@ dimwishlist:item=3954685534&perks=1645158859
 dimwishlist:item=3954685534&perks=1820235745
 dimwishlist:item=3954685534&perks=2610012052
 dimwishlist:item=3954685534&perks=2896038713
+dimwishlist:item=3954685534&perks=1583705720
+dimwishlist:item=3954685534&perks=4049631843
 
 // Fusils à fusion + Perks top
 //notes:Top :)
@@ -219,6 +233,8 @@ dimwishlist:item=9&perks=1683379515
 dimwishlist:item=9&perks=1427256713
 dimwishlist:item=9&perks=1820235745
 dimwishlist:item=9&perks=2610012052
+dimwishlist:item=9&perks=1583705720
+dimwishlist:item=9&perks=4049631843
 
 // Lance-grenades + Perks top
 //notes:Top :)
@@ -235,6 +251,8 @@ dimwishlist:item=153950757&perks=2396489472
 dimwishlist:item=153950757&perks=1683379515
 dimwishlist:item=153950757&perks=3161816588
 dimwishlist:item=153950757&perks=2610012052
+dimwishlist:item=153950757&perks=1583705720
+dimwishlist:item=153950757&perks=4049631843
 
 // Fusils à pompe + Perks top
 //notes:Top :)
@@ -260,6 +278,8 @@ dimwishlist:item=11&perks=1683379515
 dimwishlist:item=11&perks=1820235745
 dimwishlist:item=11&perks=2610012052
 dimwishlist:item=11&perks=2896038713
+dimwishlist:item=11&perks=1583705720
+dimwishlist:item=11&perks=4049631843
 
 // Fusils de précision + Perks top
 //notes:Top :)
@@ -289,6 +309,8 @@ dimwishlist:item=10&perks=1683379515
 dimwishlist:item=10&perks=2610012052
 dimwishlist:item=10&perks=3400784728
 dimwishlist:item=10&perks=2896038713
+dimwishlist:item=10&perks=1583705720
+dimwishlist:item=10&perks=4049631843
 
 // Fusils à rayon + Perks top
 //notes:Top :)
@@ -299,6 +321,8 @@ dimwishlist:item=2489664120&perks=4104185692
 dimwishlist:item=2489664120&perks=1683379515
 dimwishlist:item=2489664120&perks=1820235745
 dimwishlist:item=2489664120&perks=2610012052
+dimwishlist:item=2489664120&perks=1583705720
+dimwishlist:item=2489664120&perks=4049631843
 
 // Glaives + Perks top
 //notes:Top :)
@@ -310,6 +334,8 @@ dimwishlist:item=3871742104&perks=1015611457
 dimwishlist:item=3871742104&perks=2779035018
 dimwishlist:item=3871742104&perks=4104185692
 dimwishlist:item=3871742104&perks=1820235745
+dimwishlist:item=3871742104&perks=1583705720
+dimwishlist:item=3871742104&perks=4049631843
 
 // Fusils à fusion linéaire	+ Perks top
 //notes:Top :)
@@ -330,6 +356,8 @@ dimwishlist:item=1504945536&perks=2869569095
 dimwishlist:item=1504945536&perks=1683379515
 dimwishlist:item=1504945536&perks=3400784728
 dimwishlist:item=1504945536&perks=2896038713
+dimwishlist:item=1504945536&perks=1583705720
+dimwishlist:item=1504945536&perks=4049631843
 
 // Lance-grenades + Perks top
 //notes:Top :)
@@ -347,6 +375,8 @@ dimwishlist:item=153950757&perks=3194351027
 dimwishlist:item=153950757&perks=2869569095
 dimwishlist:item=153950757&perks=2396489472
 dimwishlist:item=153950757&perks=1683379515
+dimwishlist:item=153950757&perks=1583705720
+dimwishlist:item=153950757&perks=4049631843
 
 // Mitrailleuses + Perks top
 //notes:Top :)
@@ -370,6 +400,8 @@ dimwishlist:item=12&perks=1523832109
 dimwishlist:item=12&perks=1683379515
 dimwishlist:item=12&perks=1820235745
 dimwishlist:item=12&perks=2896038713
+dimwishlist:item=12&perks=1583705720
+dimwishlist:item=12&perks=4049631843
 
 // Lance-roquettes + Perks top
 //notes:Top :)
@@ -386,6 +418,8 @@ dimwishlist:item=13&perks=3194351027
 dimwishlist:item=13&perks=2869569095
 dimwishlist:item=13&perks=1683379515
 dimwishlist:item=13&perks=2610012052
+dimwishlist:item=13&perks=1583705720
+dimwishlist:item=13&perks=4049631843
 
 // Épées + Perks top
 //notes:Top :)
@@ -400,6 +434,8 @@ dimwishlist:item=54&perks=2396489472
 dimwishlist:item=54&perks=1683379515
 dimwishlist:item=54&perks=2450788523
 dimwishlist:item=54&perks=2077819806
+dimwishlist:item=54&perks=1583705720
+dimwishlist:item=54&perks=4049631843
 
 // ----------------------------------------------------------------------------------------------------------------
 //                                                       Perks 👎 
