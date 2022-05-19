@@ -412,7 +412,6 @@ dimwishlist:item=54&perks=2450788523
 dimwishlist:item=-5&perks=3673922083
 dimwishlist:item=-5&perks=3350417888
 dimwishlist:item=-5&perks=4252909580
-dimwishlist:item=-5&perks=1359896290
 dimwishlist:item=-5&perks=3643424744
 dimwishlist:item=-5&perks=3096702027
 dimwishlist:item=-5&perks=3300816228
@@ -571,7 +570,6 @@ dimwishlist:item=-14&perks=957782887
 // Pistolets-mitrailleurs + Perks yuck
 //notes:Yuck!
 dimwishlist:item=-3954685534&perks=3350417888
-dimwishlist:item=-3954685534&perks=1359896290
 dimwishlist:item=-3954685534&perks=3643424744
 dimwishlist:item=-3954685534&perks=3300816228
 dimwishlist:item=-3954685534&perks=2387244414
