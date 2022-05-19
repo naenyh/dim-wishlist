@@ -143,7 +143,6 @@ dimwishlist:item=7&perks=1774574192
 dimwishlist:item=7&perks=124408337
 dimwishlist:item=7&perks=1820235745
 dimwishlist:item=7&perks=4049631843
-dimwishlist:item=7&perks=41546637391
 dimwishlist:item=7&perks=1546637391
 
 // Fusils d'éclaireur	 + Perks top
