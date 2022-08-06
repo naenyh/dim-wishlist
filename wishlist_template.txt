@@ -112,6 +112,7 @@ dimwishlist:item=3317538576&perks=47981717
 dimwishlist:item=3317538576&perks=4049631843
 dimwishlist:item=3317538576&perks=1546637391
 dimwishlist:item=3317538576&perks=744594675
+dimwishlist:item=3317538576&perks=124408337
 
 // Revolvers + Perks top
 //notes:Top :)
