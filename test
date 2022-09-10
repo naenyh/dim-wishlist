@@ -1,0 +1,85 @@
+title:Liste précise ?
+description:Liste précise ?
+
+// -----------------------------------------------------------------------------------------------------------------
+
+// Arme = ItemCategory
+// Perk = InventoryItem:Particularité
+
+// -----------------------------------------------------------------------------------------------------------------
+
+// Armes Craftable
+//notes:Craftable
+dimwishlist:item=-1399109800
+dimwishlist:item=-768621510
+dimwishlist:item=-2097055732
+dimwishlist:item=-2856514843
+dimwishlist:item=-4225322581
+dimwishlist:item=-2607304614
+dimwishlist:item=-4067556514
+dimwishlist:item=-1526296434
+dimwishlist:item=-3886416794
+dimwishlist:item=-927567426
+dimwishlist:item=-1248372789
+dimwishlist:item=-232928045
+dimwishlist:item=-1994645182
+dimwishlist:item=-2534546147
+dimwishlist:item=-2595497736
+dimwishlist:item=-4096943616
+dimwishlist:item=-613334176
+dimwishlist:item=-3428521585
+dimwishlist:item=-297296830
+dimwishlist:item=-3865728990
+dimwishlist:item=-2721157927
+dimwishlist:item=-1572896086
+dimwishlist:item=-999767358
+dimwishlist:item=-3489657138
+dimwishlist:item=-3175851496
+dimwishlist:item=-3055790362
+dimwishlist:item=-1366394399
+dimwishlist:item=-2263839058
+dimwishlist:item=-254636484
+dimwishlist:item=-1478986057
+dimwishlist:item=-502356570
+dimwishlist:item=-3107853529
+dimwishlist:item=-2490988246
+dimwishlist:item=-2323544076
+dimwishlist:item=-2194955522
+dimwishlist:item=-1959650777
+dimwishlist:item=-2778013407
+
+// ----------------------------------------------------------------------------------------------------------------
+//                                                FUSILS AUTOMATIQUES
+// ----------------------------------------------------------------------------------------------------------------
+
+// BrayTech Werewolf
+dimwishlist:item=528834068&perks=1546637391// Vorpal
+dimwishlist:item=528834068&perks=4082225868// Swashbuckler
+
+// Chroma Rush
+dimwishlist:item=1119734784&perks=3425386926// Rampage
+dimwishlist:item=1119734784&perks=11612903// Adrenaline Junkie
+
+// Duty Bound
+dimwishlist:item=435216110&perks=4049631843// One for All
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
