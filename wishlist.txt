@@ -240,9 +240,14 @@ dimwishlist:item=-1321506184
 //                                                FUSILS AUTOMATIQUES
 // ----------------------------------------------------------------------------------------------------------------
 
-// BrayTech Werewolf
+// BrayTech Werewolf + version 2022
 dimwishlist:item=528834068&perks=1546637391# Vorpal
 dimwishlist:item=528834068&perks=4082225868# Swashbuckler
+dimwishlist:item=2869466318&perks=691659142# Pugilist
+dimwishlist:item=2869466318&perks=4082225868# Swashbuckler
+dimwishlist:item=2869466318&perks=1546637391# Vorpal
+dimwishlist:item=2869466318&perks=1774574192# Osmosis
+
 
 // Chroma Rush
 dimwishlist:item=1119734784&perks=3425386926# Rampage
@@ -843,10 +848,14 @@ dimwishlist:item=1162247618&perks=3425386926# Rampage
 dimwishlist:item=1162247618&perks=2848615171# Dragonfly
 dimwishlist:item=1162247618&perks=4082225868# Swashbuckler
 
-// Jurassic Green
+// Jurassic Green + version 2022
 dimwishlist:item=2261046232&perks=4104185692# Frenzy
 dimwishlist:item=2261046232&perks=11612903# Adrenaline Junkie
 dimwishlist:item=2261046232&perks=2848615171# Dragonfly
+dimwishlist:item=2603335652&perks=4104185692# Frenzy
+dimwishlist:item=2603335652&perks=4293542123# Incandescent
+dimwishlist:item=2603335652&perks=11612903# Adrenaline Junkie
+dimwishlist:item=2603335652&perks=2610012052# Golden Tricorn
 
 // Last Perdition
 dimwishlist:item=188882152&perks=3425386926# Rampage
@@ -1080,17 +1089,21 @@ dimwishlist:item=2855157553&perks=2679249093# One-Two Punch
 dimwishlist:item=1697682876&perks=3523296417# Demolitionist
 dimwishlist:item=1697682876&perks=2360754333# Trench Barrel
 dimwishlist:item=1697682876&perks=1264398905# Celerity
+dimwishlist:item=1697682876&perks=47981717# Opening Shot
 dimwishlist:item=532746994&perks=3523296417# Demolitionist
 dimwishlist:item=532746994&perks=2360754333# Trench Barrel
 dimwishlist:item=532746994&perks=1264398905# Celerity
+dimwishlist:item=532746994&perks=47981717# Opening Shot
 
 // Blasphemer
 dimwishlist:item=2782847179&perks=3425386926# Rampage
 dimwishlist:item=2782847179&perks=4082225868# Swashbuckler
+dimwishlist:item=2782847179&perks=47981717# Opening Shot
 
 // Bonechiller
 dimwishlist:item=4037745684&perks=3523296417# Demolitionist
 dimwishlist:item=4037745684&perks=4049631843# One for All
+dimwishlist:item=4037745684&perks=47981717# Opening Shot
 
 // Compass Rose
 dimwishlist:item=2591111628&perks=2360754333# Trench Barrel
@@ -1108,22 +1121,27 @@ dimwishlist:item=3738678140&perks=2360754333# Trench Barrel
 // First In, Last Out
 dimwishlist:item=3616586446&perks=3523296417# Demolitionist
 dimwishlist:item=3616586446&perks=1546637391# Vorpal
+dimwishlist:item=3616586446&perks=47981717# Opening Shot
 
 // Fortissimo-11
 dimwishlist:item=2821430069&perks=11612903# Adrenaline Junkie
 dimwishlist:item=2821430069&perks=4104185692# Frenzy
+dimwishlist:item=2821430069&perks=47981717# Opening Shot
 
 // Found Verdict
 dimwishlist:item=3197270240&perks=3523296417# Demolitionist
 dimwishlist:item=3197270240&perks=4104185692# Frenzy
 dimwishlist:item=3197270240&perks=2679249093# One-Two Punch
+dimwishlist:item=3197270240&perks=47981717# Opening Shot
 dimwishlist:item=631439337&perks=3523296417# Demolitionist
 dimwishlist:item=631439337&perks=4104185692# Frenzy
 dimwishlist:item=631439337&perks=2679249093# One-Two Punch
+dimwishlist:item=631439337&perks=47981717# Opening Shot
 
 // Fractethyst
 dimwishlist:item=3184681056&perks=11612903# Adrenaline Junkie
 dimwishlist:item=3184681056&perks=2360754333# Trench Barrel
+dimwishlist:item=3184681056&perks=47981717# Opening Shot
 
 // Heritage
 dimwishlist:item=4248569242&perks=1523832109# Reconstruction
@@ -1137,6 +1155,7 @@ dimwishlist:item=1096206669&perks=3425386926# Rampage
 dimwishlist:item=2563012876&perks=2610012052# Golden Tricorn
 dimwishlist:item=2563012876&perks=2679249093# One-Two Punch
 dimwishlist:item=2563012876&perks=4082225868# Swashbuckler
+dimwishlist:item=2563012876&perks=47981717# Opening Shot
 
 // Mindbender's Ambition
 dimwishlist:item=1094005544&perks=4082225868# Swashbuckler
@@ -1153,6 +1172,7 @@ dimwishlist:item=1016668089&perks=2360754333# Trench Barrel
 // Prophet of Doom
 dimwishlist:item=4020742303&perks=2679249093# One-Two Punch
 dimwishlist:item=4020742303&perks=3425386926# Rampage
+dimwishlist:item=4020742303&perks=47981717# Opening Shot
 
 // Retold Tale
 dimwishlist:item=346136302&perks=2679249093# One-Two Punch
@@ -1174,6 +1194,7 @@ dimwishlist:item=1821724780&perks=1546637391# Vorpal
 // Sojourner's Tale
 dimwishlist:item=599895591&perks=4104185692# Frenzy
 dimwishlist:item=599895591&perks=11612903# Adrenaline Junkie
+dimwishlist:item=599895591&perks=47981717# Opening Shot
 
 // The Comedian
 dimwishlist:item=1028582252&perks=11612903# Adrenaline Junkie
@@ -1191,9 +1212,11 @@ dimwishlist:item=217140611&perks=3523296417# Demolitionist
 dimwishlist:item=2185327324&perks=2610012052# Golden Tricorn
 dimwishlist:item=2185327324&perks=4082225868# Swashbuckler
 dimwishlist:item=2185327324&perks=11612903# Adrenaline Junkie
+dimwishlist:item=2185327324&perks=47981717# Opening Shot
 dimwishlist:item=2307365&perks=2610012052# Golden Tricorn
 dimwishlist:item=2307365&perks=4082225868# Swashbuckler
 dimwishlist:item=2307365&perks=11612903# Adrenaline Junkie
+dimwishlist:item=2307365&perks=47981717# Opening Shot
 
 // Toil and Trouble
 dimwishlist:item=2957367743&perks=3425386926# Rampage
@@ -1202,6 +1225,7 @@ dimwishlist:item=2957367743&perks=4071163871# Threat Detector
 // Wishbringer
 dimwishlist:item=3356526253&perks=3425386926# Rampage
 dimwishlist:item=3356526253&perks=4071163871# Threat Detector
+dimwishlist:item=3356526253&perks=47981717# Opening Shot
 
 // Xenoclast IV
 dimwishlist:item=2891672170&perks=3523296417# Demolitionist
@@ -1305,28 +1329,35 @@ dimwishlist:item=4164201232&perks=2610012052# Golden Tricorn
 // Apostate
 dimwishlist:item=2164448701&perks=1015611457# Kill Clip
 dimwishlist:item=2164448701&perks=2450788523# Killing Wind
+dimwishlist:item=2164448701&perks=47981717# Opening Shot
 
 // Bite of the Fox
 dimwishlist:item=3169616514&perks=3425386926# Rampage
 dimwishlist:item=3169616514&perks=2010801679# Ambitious Assassin
+dimwishlist:item=3169616514&perks=47981717# Opening Shot
 
 // Distant Tumulus
 dimwishlist:item=2807687156&perks=2284787283# Clown Cartridge
 dimwishlist:item=2807687156&perks=1771339417# Firing Line
+dimwishlist:item=2807687156&perks=47981717# Opening Shot
 
 // Eye of Sol
 dimwishlist:item=3164743584&perks=1546637391# Vorpal
 dimwishlist:item=3164743584&perks=438098033# Harmony
+dimwishlist:item=3164743584&perks=47981717# Opening Shot
 dimwishlist:item=3637570176&perks=1546637391# Vorpal
 dimwishlist:item=3637570176&perks=438098033# Harmony
+dimwishlist:item=3637570176&perks=47981717# Opening Shot
 
 // Far Future
 dimwishlist:item=893527433&perks=4104185692# Frenzy
 dimwishlist:item=893527433&perks=3523296417# Demolitionist
+dimwishlist:item=893527433&perks=47981717# Opening Shot
 
 // Frozen Orbit
 dimwishlist:item=3473290087&perks=3523296417# Demolitionist
 dimwishlist:item=3473290087&perks=1015611457# Kill Clip
+dimwishlist:item=3473290087&perks=47981717# Opening Shot
 
 // Fugue-55
 dimwishlist:item=2233545123&perks=1546637391# Vorpal
@@ -1344,9 +1375,16 @@ dimwishlist:item=1253087083&perks=2213355989# High-Impact Reserves
 dimwishlist:item=3745990145&perks=3425386926# Rampage
 dimwishlist:item=3745990145&perks=2010801679# Ambitious Assassin
 
+// Mechabre
+dimwishlist:item=1280894514&perks=1546637391# Vorpal Weapon
+dimwishlist:item=1280894514&perks=2173046394# Voltshot
+dimwishlist:item=1280894514&perks=47981717# Opening Shot
+dimwishlist:item=1280894514&perks=4082225868# Swashbuckler
+
 // Occluded Finality
 dimwishlist:item=852551895&perks=3523296417# Demolitionist
 dimwishlist:item=852551895&perks=1771339417# Firing Line
+dimwishlist:item=852551895&perks=47981717# Opening Shot
 
 // Omniscient Eye
 dimwishlist:item=3454326177&perks=2458213969# Multikill Clip
@@ -1356,24 +1394,29 @@ dimwishlist:item=3454326177&perks=3425386926# Rampage
 dimwishlist:item=3653573172&perks=11612903# Adrenaline Junkie
 dimwishlist:item=3653573172&perks=4104185692# Frenzy
 dimwishlist:item=3653573172&perks=3824105627# Firefly
+dimwishlist:item=3653573172&perks=47981717# Opening Shot
 dimwishlist:item=1987769101&perks=11612903# Adrenaline Junkie
 dimwishlist:item=1987769101&perks=4104185692# Frenzy
 dimwishlist:item=1987769101&perks=3824105627# Firefly
+dimwishlist:item=1987769101&perks=47981717# Opening Shot
 
 // Shepherd's Watch
 dimwishlist:item=3743729616&perks=4104185692# Frenzy
 dimwishlist:item=3743729616&perks=1771339417# Firing Line
 dimwishlist:item=3743729616&perks=3523296417# Demolitionist
+dimwishlist:item=3743729616&perks=47981717# Opening Shot
 
 // Silicon Neuroma
 dimwishlist:item=3355385170&perks=3523296417# Demolitionist
 dimwishlist:item=3355385170&perks=4104185692# Frenzy
 dimwishlist:item=3355385170&perks=1771339417# Firing Line
 dimwishlist:item=3355385170&perks=11612903# Adrenaline Junkie
+dimwishlist:item=3355385170&perks=47981717# Opening Shot
 dimwishlist:item=1387987271&perks=3523296417# Demolitionist
 dimwishlist:item=1387987271&perks=4104185692# Frenzy
 dimwishlist:item=1387987271&perks=1771339417# Firing Line
 dimwishlist:item=1387987271&perks=11612903# Adrenaline Junkie
+dimwishlist:item=1387987271&perks=47981717# Opening Shot
 
 // Succession
 dimwishlist:item=2990047042&perks=469285294# Recombination
@@ -1396,6 +1439,7 @@ dimwishlist:item=1645386487&perks=4104185692# Frenzy
 // Twilight Oath
 dimwishlist:item=3297863558&perks=1015611457# Kill Clip
 dimwishlist:item=3297863558&perks=1546637391# Vorpal
+dimwishlist:item=3297863558&perks=47981717# Opening Shot
 
 // Uzume RR4
 dimwishlist:item=2065081837&perks=11612903# Adrenaline Junkie
@@ -1406,6 +1450,7 @@ dimwishlist:item=852228780&perks=3523296417# Demolitionist
 // Widow's Bite
 dimwishlist:item=1271343896&perks=3523296417# Demolitionist
 dimwishlist:item=1271343896&perks=1683379515# Disruption Break
+dimwishlist:item=1271343896&perks=47981717# Opening Shot
 
 // ----------------------------------------------------------------------------------------------------------------
 //                                                PISTOLET MITRAILLEUR
