@@ -749,7 +749,7 @@ dimwishlist:item=2475355656&perks=1771339417# Firing Line
 dimwishlist:item=3652506829&perks=3523296417# Demolitionist
 dimwishlist:item=3652506829&perks=1771339417# Firing Line
 dimwishlist:item=3652506829&perks=4104185692# Frenzy
-dimwishlist:item=3652506829&perks=3425386926# Rampage
+dimwishlist:item=3652506829&perks=1546637391# Vorpal
 
 // Tarantula
 dimwishlist:item=3335343363&perks=3523296417# Demolitionist
