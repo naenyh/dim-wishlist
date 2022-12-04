@@ -304,7 +304,7 @@ dimwishlist:item=640114618&perks=4104185692# Frenzy
 
 // Age-Old Bond
 dimwishlist:item=601592879&perks=2848615171# Dragonfly
-dimwishlist:item=601592879&perks=1015611457# Kill Clip
+
 
 // Arc Logic
 dimwishlist:item=2723909519&perks=3523296417# Demolitionist
@@ -382,12 +382,10 @@ dimwishlist:item=211938782&perks=47981717# Opening Shot
 // Whistler's Whim + Adept
 dimwishlist:item=1574601402&perks=47981717# Opening Shot
 dimwishlist:item=1574601402&perks=201365942# Archer's Tempo
-dimwishlist:item=1574601402&perks=1015611457# Kill Clip
 dimwishlist:item=1574601402&perks=11612903# Adrenaline Junkie
 dimwishlist:item=1574601402&perks=4082225868# Swashbuckler
 dimwishlist:item=711889599&perks=47981717# Opening Shot
 dimwishlist:item=711889599&perks=201365942# Archer's Tempo
-dimwishlist:item=711889599&perks=1015611457# Kill Clip
 dimwishlist:item=711889599&perks=11612903# Adrenaline Junkie
 dimwishlist:item=711889599&perks=4082225868# Swashbuckler
 
@@ -472,7 +470,7 @@ dimwishlist:item=3044460004&perks=1799762209# Cornered
 
 // Main Ingredient
 dimwishlist:item=253196586&perks=3425386926# Rampage
-dimwishlist:item=253196586&perks=1015611457# Kill Clip
+
 
 // PLUG ONE.1 + Adept
 dimwishlist:item=1289000550&perks=11612903# Adrenaline Junkie
@@ -601,7 +599,7 @@ dimwishlist:item=3568377122&perks=3523296417# Demolitionist
 
 // Crimil's Dagger
 dimwishlist:item=4292849692&perks=3038247973# Explosive Payload
-dimwishlist:item=4292849692&perks=1015611457# Kill Clip
+
 
 // D.F.A.
 dimwishlist:item=575830664&perks=3425386926# Rampage
@@ -694,7 +692,7 @@ dimwishlist:item=3813153080&perks=2458213969# Multikill Clip
 
 // Frontier's Cry
 dimwishlist:item=1141547457&perks=4049631843# One for All
-dimwishlist:item=1141547457&perks=1015611457# Kill Clip
+
 
 // Igneous Hammer + Adept
 dimwishlist:item=2351180975&perks=3425386926# Rampage
@@ -728,7 +726,7 @@ dimwishlist:item=1481892490&perks=1168162263# Outlaw
 
 // Waking Vigil
 dimwishlist:item=334171687&perks=3824105627# Firefly
-dimwishlist:item=334171687&perks=1015611457# Kill Clip
+
 
 // ----------------------------------------------------------------------------------------------------------------
 //                                                LINEAIRES
@@ -736,7 +734,7 @@ dimwishlist:item=334171687&perks=1015611457# Kill Clip
 
 // Corsair's Wrath
 dimwishlist:item=2714022207&perks=3523296417# Demolitionist
-dimwishlist:item=2714022207&perks=1015611457# Kill Clip
+
 
 // Reed's Regret
 dimwishlist:item=1399243961&perks=124408337# Headstone
@@ -839,9 +837,9 @@ dimwishlist:item=2870169846&perks=1168162263# Outlaw
 
 // Horror's Least
 dimwishlist:item=216983039&perks=4104185692# Frenzy
-dimwishlist:item=216983039&perks=1015611457# Kill Clip
+
 dimwishlist:item=1924276978&perks=4104185692# Frenzy
-dimwishlist:item=1924276978&perks=1015611457# Kill Clip
+
 
 // Jian 7 Rifle
 dimwishlist:item=1162247618&perks=3425386926# Rampage
@@ -859,7 +857,7 @@ dimwishlist:item=2603335652&perks=2610012052# Golden Tricorn
 
 // Last Perdition
 dimwishlist:item=188882152&perks=3425386926# Rampage
-dimwishlist:item=188882152&perks=1015611457# Kill Clip
+
 
 // Legal Action II
 dimwishlist:item=3409645497&perks=11612903# Adrenaline Junkie
@@ -881,7 +879,7 @@ dimwishlist:item=208088207&perks=3425386926# Rampage
 dimwishlist:item=208088207&perks=2779035018# Feeding Frenzy
 
 // Sacred Provenance
-dimwishlist:item=2408405461&perks=1015611457# Kill Clip
+
 dimwishlist:item=2408405461&perks=1168162263# Outlaw
 
 // Stars in Shadow
@@ -917,11 +915,10 @@ dimwishlist:item=1141927949&perks=691659142# Pugilist
 // ----------------------------------------------------------------------------------------------------------------
 
 // Apex Predator
-dimwishlist:item=2545083870&perks=1015611457# Kill Clip
+
 dimwishlist:item=2545083870&perks=3977735242# Tracking Module
 
 // Bad Omens
-dimwishlist:item=991314988&perks=1015611457# Kill Clip
 dimwishlist:item=991314988&perks=3977735242# Tracking Module
 dimwishlist:item=991314988&perks=1275731761# Cluster Bomb
 
@@ -942,7 +939,6 @@ dimwishlist:item=1921159786&perks=3977735242# Tracking Module
 
 // Hoosegow
 dimwishlist:item=3669616453&perks=1275731761# Cluster Bomb
-dimwishlist:item=3669616453&perks=1015611457# Kill Clip
 dimwishlist:item=3669616453&perks=3977735242# Tracking Module
 
 // Roar of the Bear
@@ -1003,7 +999,7 @@ dimwishlist:item=577528837&perks=4049631843# One for All
 
 // Eternal Blazon
 dimwishlist:item=3514096004&perks=4049631843# One for All
-dimwishlist:item=3514096004&perks=1015611457# Kill Clip
+
 
 // Hung Jury SR4
 dimwishlist:item=4281371574&perks=11612903# Adrenaline Junkie
@@ -1060,7 +1056,7 @@ dimwishlist:item=2386979999&perks=1264398905# Celerity
 dimwishlist:item=2386979999&perks=1546637391# Vorpal
 
 // Transfiguration
-dimwishlist:item=3799980700&perks=1015611457# Kill Clip
+
 dimwishlist:item=3799980700&perks=3425386926# Rampage
 
 // Trustee
@@ -1239,7 +1235,7 @@ dimwishlist:item=2891672170&perks=4082225868# Swashbuckler
 // ----------------------------------------------------------------------------------------------------------------
 
 // A Swift Verdict
-dimwishlist:item=1626503676&perks=1015611457# Kill Clip
+
 dimwishlist:item=1626503676&perks=3708227201# Surrounded
 
 // Allied Demand
@@ -1303,7 +1299,7 @@ dimwishlist:item=2588048270&perks=4082225868# Swashbuckler
 dimwishlist:item=2588048270&perks=3523296417# Demolitionist
 
 // The Fool's Remedy
-dimwishlist:item=65611680&perks=1015611457# Kill Clip
+
 dimwishlist:item=65611680&perks=2779035018# Feeding Frenzy
 
 // The Keening
@@ -1312,7 +1308,7 @@ dimwishlist:item=409551876&perks=4049631843# One for All
 
 // The Last Dance
 dimwishlist:item=2009277538&perks=2848615171# Dragonfly
-dimwishlist:item=2009277538&perks=1015611457# Kill Clip
+
 
 // The Vision
 dimwishlist:item=2414141462&perks=4049631843# One for All
@@ -1327,7 +1323,6 @@ dimwishlist:item=4164201232&perks=3523296417# Demolitionist
 dimwishlist:item=4164201232&perks=2610012052# Golden Tricorn
 
 // Apostate
-dimwishlist:item=2164448701&perks=1015611457# Kill Clip
 dimwishlist:item=2164448701&perks=2450788523# Killing Wind
 dimwishlist:item=2164448701&perks=47981717# Opening Shot
 
@@ -1356,7 +1351,6 @@ dimwishlist:item=893527433&perks=47981717# Opening Shot
 
 // Frozen Orbit
 dimwishlist:item=3473290087&perks=3523296417# Demolitionist
-dimwishlist:item=3473290087&perks=1015611457# Kill Clip
 dimwishlist:item=3473290087&perks=47981717# Opening Shot
 
 // Fugue-55
@@ -1429,7 +1423,7 @@ dimwishlist:item=3326850591&perks=4104185692# Frenzy
 
 // The Supremacy
 dimwishlist:item=686951703&perks=3425386926# Rampage
-dimwishlist:item=686951703&perks=1015611457# Kill Clip
+
 
 // Tranquility
 dimwishlist:item=1645386487&perks=1771339417# Firing Line
@@ -1437,7 +1431,6 @@ dimwishlist:item=1645386487&perks=3523296417# Demolitionist
 dimwishlist:item=1645386487&perks=4104185692# Frenzy
 
 // Twilight Oath
-dimwishlist:item=3297863558&perks=1015611457# Kill Clip
 dimwishlist:item=3297863558&perks=1546637391# Vorpal
 dimwishlist:item=3297863558&perks=47981717# Opening Shot
 
@@ -1505,7 +1498,7 @@ dimwishlist:item=2222560548&perks=3523296417# Demolitionist
 
 // Multimach CCX
 dimwishlist:item=3717177717&perks=4049631843# One for All
-dimwishlist:item=3717177717&perks=1015611457# Kill Clip
+
 
 // Out of Bounds
 dimwishlist:item=2988121501&perks=2610012052# Golden Tricorn
@@ -1532,7 +1525,7 @@ dimwishlist:item=2272470786&perks=2848615171# Dragonfly
 dimwishlist:item=2272470786&perks=2458213969# Multikill Clip
 
 // The Hero's Burden
-dimwishlist:item=2488587246&perks=1015611457# Kill Clip
+
 dimwishlist:item=2488587246&perks=1546637391# Vorpal
 
 // The Title
