@@ -1,5 +1,5 @@
 title:Wishlist de Givrelune
-description:Mise à jour le 31/12/2022
+description:Mise à jour le 31/12/2022.
 
 dimwishlist:item=20935540&perks=1546637391
 dimwishlist:item=20935540&perks=2848615171
