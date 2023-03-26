@@ -1,5 +1,5 @@
 title:Wishlist de Givrelune
-description:Mise à jour le 25/03/2023
+description:Mise à jour le 26/03/2023
 
 dimwishlist:item=821154603&perks=3425386926
 dimwishlist:item=821154603&perks=1015611457
@@ -35,13 +35,14 @@ dimwishlist:item=2306182339&perks=11612903
 dimwishlist:item=2306182339&perks=1546637391
 dimwishlist:item=2306182339&perks=3523296417
 dimwishlist:item=2306182339&perks=4104185692
+dimwishlist:item=2888266564&perks=11612903
+dimwishlist:item=2888266564&perks=1015611457
+dimwishlist:item=2888266564&perks=4049631843
 dimwishlist:item=235827225&perks=1015611457
 dimwishlist:item=235827225&perks=124408337
 dimwishlist:item=6857689&perks=2458213969
 dimwishlist:item=6857689&perks=4082225868
 dimwishlist:item=6857689&perks=2848615171
-dimwishlist:item=3813153080&perks=2458213969
-dimwishlist:item=3813153080&perks=4049631843
 dimwishlist:item=3102421004&perks=3425386926
 dimwishlist:item=3102421004&perks=1015611457
 dimwishlist:item=3102421004&perks=4104185692
