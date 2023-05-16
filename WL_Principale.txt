@@ -1,5 +1,5 @@
 title:Wishlist de Givrelune
-description:Mise à jour le 04/05/2023
+description:Mise à jour le 11/05/2023
 
 dimwishlist:item=4070357005&perks=4104185692
 dimwishlist:item=4070357005&perks=365154968
@@ -59,6 +59,7 @@ dimwishlist:item=4019668921&perks=4293542123
 dimwishlist:item=1389546626&perks=4293542123
 dimwishlist:item=1389546626&perks=831391274
 dimwishlist:item=346136302&perks=2679249093
+dimwishlist:item=2573900604&perks=2679249093
 dimwishlist:item=2891672170&perks=2679249093
 dimwishlist:item=829330711&perks=124408337
 dimwishlist:item=2566006935&perks=1015611457
