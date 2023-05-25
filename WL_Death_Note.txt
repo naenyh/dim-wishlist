@@ -1,6 +1,7 @@
 title:Death Note
-description:Mise à jour le 25/03/2023.
+description:Mise à jour le 25/05/2023
 
+dimwishlist:item=-3489657138
 dimwishlist:item=-3366545721
 dimwishlist:item=-2943293195
 dimwishlist:item=-2263839058
@@ -34,3 +35,7 @@ dimwishlist:item=-1941816543
 dimwishlist:item=-291092617
 dimwishlist:item=-1731355324
 dimwishlist:item=-3281285075
+dimwishlist:item=-1769847435
+dimwishlist:item=-3591141932
+dimwishlist:item=-3890055324
+dimwishlist:item=-4066778670
