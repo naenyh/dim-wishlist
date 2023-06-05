@@ -1,0 +1,6 @@
+title:Wishlist de Naënyh ♥
+description:Pour mes petites recherche perso.
+
+// Une attraction distante - Halte_là et Pierre tombal
+// https://d2foundry.gg/w/1769847435?p=839105230,3142289711,3619207468_1,124408337,2053642371&m=984527513&mw=384158423
+dimwishlist:item=1769847435&perks=839105230,3142289711,3619207468,124408337
