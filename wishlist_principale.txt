@@ -1,5 +1,5 @@
 title:Wishlist de Givrelune
-description:Mise à jour le 18/08/2023
+description:Mise à jour le 18/08/2023.
 
 dimwishlist:item=821154603&perks=3425386926
 dimwishlist:item=821154603&perks=1015611457
