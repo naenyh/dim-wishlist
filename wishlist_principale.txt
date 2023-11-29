@@ -1,5 +1,5 @@
 title:Wishlist de Givrelune
-description:Mise à jour le 27/11/2023
+description:Mise à jour le 29/11/2023
 
 dimwishlist:item=821154603&perks=3425386926
 dimwishlist:item=821154603&perks=1015611457
@@ -7,13 +7,15 @@ dimwishlist:item=821154603&perks=2458213969
 dimwishlist:item=821154603&perks=4082225868
 dimwishlist:item=177568179&perks=124408337
 dimwishlist:item=2852052802&perks=124408337
+dimwishlist:item=2852052802&perks=95528736
+dimwishlist:item=2852052802&perks=2610012052
+dimwishlist:item=2026755633&perks=95528736
 dimwishlist:item=888872889&perks=4082225868
 dimwishlist:item=888872889&perks=2848615171
 dimwishlist:item=888872889&perks=2610012052
 dimwishlist:item=192784503&perks=4293542123
 dimwishlist:item=496556698&perks=4293542123
 dimwishlist:item=2591241074&perks=4293542123
-dimwishlist:item=1084190509&perks=1546637391
 dimwishlist:item=2738601016&perks=3194351027
 dimwishlist:item=2738601016&perks=3751912585
 dimwishlist:item=867154247&perks=3194351027
@@ -30,6 +32,12 @@ dimwishlist:item=3183283212&perks=3194351027
 dimwishlist:item=3183283212&perks=3751912585
 dimwishlist:item=555148853&perks=3194351027
 dimwishlist:item=555148853&perks=3751912585
+dimwishlist:item=1151688091&perks=11612903
+dimwishlist:item=1151688091&perks=2173046394
+dimwishlist:item=1151688091&perks=4049631843
+dimwishlist:item=672957262&perks=11612903
+dimwishlist:item=672957262&perks=2173046394
+dimwishlist:item=672957262&perks=4049631843
 dimwishlist:item=2026087437&perks=2978966579
 dimwishlist:item=1125217994&perks=11612903
 dimwishlist:item=1125217994&perks=1015611457
@@ -61,7 +69,9 @@ dimwishlist:item=3652506829&perks=1771339417
 dimwishlist:item=3221722018&perks=1546637391
 dimwishlist:item=495940989&perks=3751912585
 dimwishlist:item=495940989&perks=365154968
-dimwishlist:item=2187717691&perks=365154968
+dimwishlist:item=1903182562&perks=3194351027
+dimwishlist:item=4233375372&perks=95528736
+dimwishlist:item=4233375372&perks=2610012052
 dimwishlist:item=1141927949&perks=3425386926
 dimwishlist:item=1141927949&perks=2458213969
 dimwishlist:item=1141927949&perks=2610012052
@@ -112,3 +122,7 @@ dimwishlist:item=614426548&perks=3913600130
 dimwishlist:item=2139640995&perks=2396489472
 dimwishlist:item=3400256755&perks=3650930298
 dimwishlist:item=396910433&perks=3650930298
+dimwishlist:item=4248997900&perks=831391274
+dimwishlist:item=4248997900&perks=365154968
+dimwishlist:item=2421180981&perks=831391274
+dimwishlist:item=2421180981&perks=365154968
